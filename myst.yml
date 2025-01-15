@@ -1,0 +1,22 @@
+version: 1
+project:
+  title: "Regenerative Behavior of Planarians: Effects of Vertical and Horizontal Cuts on Morphogenesis and Phototaxis"
+  description: This is going to be the best paper you have ever seen.
+  keywords:
+    -  Planarian
+    -  Regeneration
+    -  Diffusion gradient model
+  subject: Planaria 
+  authors:
+    - name: Angela Henderson 
+      corresponding: true
+      orcid: 0009-0003-2232-2836
+      affiliation: ncssm
+      email: henderson26a@ncssm.edu
+      roles: 
+        - Data curation
+        - Visualization
+  abbreviations:
+    NMR: Nuclear Magnetic Resonance
+site:
+  template: article-theme
