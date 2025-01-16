@@ -2,6 +2,8 @@
 title: Regenerative Behavior of Planarians, Effects of Vertical and Horizontal Cuts on Morphogenesis and Phototaxis 
 abstract: |
   The purpose of the experiment was to see how planarians regenerate from vertical and horizontal cuts in different areas, especially in the head. By observing planarian behavior, like their phototaxis at their different stages of development, and the length regrown for each treatment and control, we were able to see if the planarians successfully regenerated from different cuts and how much length they were able to regain after regenerating from each. The hypothesis was that each planarian piece not containing a full head would develop one, while full head pieces regenerate a tail normally. The hypothesis was brought about by the diffusion gradient model, where it is assumed that a gradient of morphogen, a chemical substance fixes positional info procedure After dissections were performed, the planarians were measured on different days post-dissection to track their growth and during each data collection day, the pieces were put under a light to observe their movement. The movement was abnormal when exposed to light until the head regrew, and all pieces regrew a head or were well on their way to.
+availability: |
+  The data that support the findings of this study are openly available in 'Jterm2025Planaria' at (https://github.com/Wonders-dev/Jterm2025Planaria).
 ---
 
 ## Introduction
